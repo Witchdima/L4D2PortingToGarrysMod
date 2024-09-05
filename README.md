@@ -1,4 +1,4 @@
-# L4D2 Portin To Garry's Mod
+# L4D2 Portin To Garry's Mod 
 Это пособие как нужно портировать модельки выживших из Left4Dead 2 в игровые модельки игрока Garry's Mod
 
 # Содержание
